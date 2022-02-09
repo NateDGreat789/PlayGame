@@ -49,6 +49,7 @@ namespace PlayGame
             gamestartingtext.Text = "GO!";
             playbutton.Visible = false;
 
+
             this.BackColor = Color.Gold;
 
         }
