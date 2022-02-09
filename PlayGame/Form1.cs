@@ -48,7 +48,8 @@ namespace PlayGame
             gamestartingtext.Location = new Point(94, 180);
             gamestartingtext.Text = "GO!";
             playbutton.Visible = false;
-            this.BackColor = Color.Green;
+
+            this.BackColor = Color.Gold;
 
         }
     }
